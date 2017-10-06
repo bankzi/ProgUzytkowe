@@ -1,2 +1,2 @@
 # ProgUzytkowe
-Programy uzytkowe, meka cz. 1
+Programy uzytkowe, oby dzialalo
